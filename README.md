@@ -1,1 +1,1 @@
-Weather application built using React, Redux
+Weather application built using React, Redux, Sparklines, and Google Map API
